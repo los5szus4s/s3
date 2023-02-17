@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
