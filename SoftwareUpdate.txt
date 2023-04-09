@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
