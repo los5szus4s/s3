@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
