@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
