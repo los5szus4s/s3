@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update Docs Home and Neural Magic pages (#7243)
